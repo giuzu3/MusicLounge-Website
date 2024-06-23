@@ -4,7 +4,7 @@ const MusicLoungeLanding = () => {
   return (
     <div className="min-h-screen bg-black text-white font-sans">
       <header className="container mx-auto px-4 py-8 flex items-center justify-between">
-        <img src="/api/placeholder/200/100" alt="MusicLounge Logo" className="w-48" />
+        <img src="Stocknack logo 4.3 white shadow.png" alt="MusicLounge Logo" className="w-48" />
         <nav>
           <a href="#" className="text-orange-500 hover:text-orange-300 mx-2">Home</a>
           <a href="#" className="text-orange-500 hover:text-orange-300 mx-2">Discover</a>
@@ -16,7 +16,7 @@ const MusicLoungeLanding = () => {
         <section className="text-center py-16">
           <h1 className="text-5xl font-bold mb-4 text-orange-500">MusicLounge</h1>
           <p className="text-2xl mb-8">The first platform that rewards great taste in music</p>
-          <img src="/api/placeholder/600/300" alt="MusicLounge Concept" className="mx-auto mb-8" />
+          <img src="Screen Shot 2024-06-22 at 2.08.19 PM.png" alt="MusicLounge Concept" className="mx-auto mb-8" />
           <button className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-8 rounded-full text-xl transition-colors duration-300">
             Join the Beta
           </button>
@@ -24,17 +24,17 @@ const MusicLoungeLanding = () => {
 
         <section className="grid md:grid-cols-3 gap-8 mb-16">
           <div className="text-center">
-            <img src="/api/placeholder/200/200" alt="Image 1" className="mx-auto mb-4" />
+            <img src="10070358.png" alt="Image 1" className="mx-auto mb-4" />
             <h3 className="text-xl font-semibold mb-2 text-orange-500">Discover Talent</h3>
             <p>Find and support emerging artists with our unique knack scoring system.</p>
           </div>
           <div className="text-center">
-            <img src="/api/placeholder/200/200" alt="Image 2" className="mx-auto mb-4" />
+            <img src="graph-color-symbol-icon-png.webp0" alt="Image 2" className="mx-auto mb-4" />
             <h3 className="text-xl font-semibold mb-2 text-orange-500">Grow Your Impact</h3>
             <p>Earn impact points by discovering and sharing great music.</p>
           </div>
           <div className="text-center">
-            <img src="/api/placeholder/200/200" alt="Image 4" className="mx-auto mb-4" />
+            <img src="2786254.png" alt="Image 4" className="mx-auto mb-4" />
             <h3 className="text-xl font-semibold mb-2 text-orange-500">Connect</h3>
             <p>Build your network of music enthusiasts and artists.</p>
           </div>
@@ -45,7 +45,7 @@ const MusicLoungeLanding = () => {
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-gray-900 p-6 rounded-lg">
               <h3 className="text-2xl font-semibold mb-4 text-orange-500">For Fans</h3>
-              <img src="/api/placeholder/400/200" alt="Image 5 Left" className="mb-4" />
+            //  <img src="/api/placeholder/400/200" alt="Image 5 Left" className="mb-4" /> //
               <ul className="space-y-2">
                 <li>Discover new artists</li>
                 <li>Earn impact points</li>
@@ -54,7 +54,7 @@ const MusicLoungeLanding = () => {
             </div>
             <div className="bg-gray-900 p-6 rounded-lg">
               <h3 className="text-2xl font-semibold mb-4 text-orange-500">For Artists</h3>
-              <img src="/api/placeholder/400/200" alt="Image 5 Right" className="mb-4" />
+              // <img src="/api/placeholder/400/200" alt="Image 5 Right" className="mb-4" /> //
               <ul className="space-y-2">
                 <li>Increase your knack score</li>
                 <li>Reach new audiences</li>
@@ -67,7 +67,7 @@ const MusicLoungeLanding = () => {
         <section className="text-center mb-16">
           <h2 className="text-3xl font-bold mb-4 text-orange-500">Ready to revolutionize the music industry?</h2>
           <p className="text-xl mb-8">Join MusicLounge today and be part of the future of music discovery and promotion.</p>
-          <img src="/api/placeholder/600/300" alt="Image 3" className="mx-auto mb-8" />
+          <img src="ow-event-1717773361-53519472.jpeg" alt="Image 3" className="mx-auto mb-8" />
           <button className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-8 rounded-full text-xl transition-colors duration-300">
             Sign Up Now
           </button>
