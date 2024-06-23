@@ -82,3 +82,7 @@ const MusicLoungeLanding = () => {
 };
 
 export default MusicLoungeLanding;
+ReactDOM.render(
+  <MusicLoungeLanding />,
+  document.getElementById('root')
+);
