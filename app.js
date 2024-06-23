@@ -45,7 +45,7 @@ const MusicLoungeLanding = () => {
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-gray-900 p-6 rounded-lg">
               <h3 className="text-2xl font-semibold mb-4 text-orange-500">For Fans</h3>
-            //  <img src="/api/placeholder/400/200" alt="Image 5 Left" className="mb-4" /> //
+            <img src="/api/placeholder/400/200" alt="Image 5 Left" className="mb-4" /> 
               <ul className="space-y-2">
                 <li>Discover new artists</li>
                 <li>Earn impact points</li>
@@ -54,7 +54,7 @@ const MusicLoungeLanding = () => {
             </div>
             <div className="bg-gray-900 p-6 rounded-lg">
               <h3 className="text-2xl font-semibold mb-4 text-orange-500">For Artists</h3>
-              // <img src="/api/placeholder/400/200" alt="Image 5 Right" className="mb-4" /> //
+               <img src="/api/placeholder/400/200" alt="Image 5 Right" className="mb-4" /> 
               <ul className="space-y-2">
                 <li>Increase your knack score</li>
                 <li>Reach new audiences</li>
